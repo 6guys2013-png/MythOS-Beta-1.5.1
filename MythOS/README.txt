@@ -7,7 +7,7 @@
 ## Prerequisites
 
 - **Java 17+** (JDK)
-  - Download: [https://www.java.com/en/](https://www.java.com/en/download/)
+  - Download: [https://www.java.com/en/]  (https://www.java.com/en/download/)
   - Verify: `java -version`
 
 ---
@@ -18,3 +18,4 @@ javac mythOS.java than java mythOS.java
 
 ### 1. Save the Code
 Save the full source code as:
+
